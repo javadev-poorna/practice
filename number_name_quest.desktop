@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Number Name Quest
+Comment=Launch the Number Name Quest educational spelling game
+Exec=/usr/bin/env python3 /home/poorna/AI-Practice/demo/practice/number_name_quest.py
+Path=/home/poorna/AI-Practice/demo/practice
+Icon=/home/poorna/AI-Practice/demo/practice/number_name_quest_icon.svg
+Terminal=false
+Categories=Game;Education;
+StartupNotify=true
